@@ -6,6 +6,8 @@ Customer churn is one of the major challenges faced by telecom companies. This p
 
 The model is built using Logistic Regression and helps organizations identify at-risk customers and improve retention strategies.
 
+Dataset Link-https://www.kaggle.com/datasets/blastchar/telco-customer-churn?utm_source
+
 Problem Statement
 
 Predict whether a telecom customer will churn (leave the service) or stay with the company using historical customer data.
